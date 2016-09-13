@@ -1,0 +1,54 @@
+/*  add your styles below
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+body {
+    background: #9AC9BA; /* change */
+    color: #fff; /* change */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+article {
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 1px solid; /* can delete */
+}
+
+/* add your styles here */
+header, footer {background: #FF817F; color: #000}
+
+article {background: #487F6E}
+
+aside {background:#9AC9BA; color: #000}
+
+figure {background: #0F645B}
+
+/*color pallete
+#FF817F pink
+#487F6E darker teal
+#9AC9BA pale green
+#0F645B dark green */
+
+/* add your pseudo classes below this line */
+a:link {color: #F07B75}
+a:visited {color: #AA62B0}
+a:focus {color: #BD54EA}
+a:hover {color: #591E99}
+a:active {color: #F04E5E}
+
+footer a:link {color: #A3F0A1}
+footer a:visited {color: #974199}
+footer a:active {color: #328737}
+/*pseudo class colors
+#F07B75 dusty pink
+#AA62B0 purple
+#BD54EA bright purple
+#591E99 darker purple
+#F04E5E reddish pink
+
+footer pseudo class colors
+#A3F0A1 sea foam green
+#974199 medium purple
+#328737 darker green*/
